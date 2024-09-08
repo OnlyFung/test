@@ -16,12 +16,14 @@ func A() {
 	// master commit4
 	// master commit5
 	// master commit5
+	// feature4 commit1
+	// feature4 commit2
 }
 
 func B() {
-	// xxbx function
+	// BBB function
 }
 
 func C() {
-	// xxxxC function
+	// CCC function
 }
