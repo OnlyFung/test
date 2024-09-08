@@ -19,7 +19,7 @@ func A() {
 }
 
 func B() {
-	// B function
+	// xxbx function
 }
 
 func C() {
