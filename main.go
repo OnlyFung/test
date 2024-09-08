@@ -17,3 +17,11 @@ func A() {
 	// master commit5
 	// master commit5
 }
+
+func B() {
+	// B function
+}
+
+func C() {
+	// C function
+}
