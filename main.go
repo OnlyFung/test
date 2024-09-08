@@ -14,4 +14,5 @@ func A() {
 	// feature2 commit1
 	// feature2 commit2
 	// feature3 commit1
+	// feature3 commit2
 }
