@@ -14,4 +14,6 @@ func A() {
 	// feature2 commit1
 	// feature2 commit2
 	// master commit4
+	// master commit5
+	// master commit5
 }
