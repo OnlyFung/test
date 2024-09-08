@@ -23,5 +23,5 @@ func B() {
 }
 
 func C() {
-	// C function
+	// xxxxC function
 }
